@@ -23,7 +23,7 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [EDEC](files/EDEC.md)
 * [GCA](files/GCA.md)
 * [SRG](files/SRG.md)
-* [PLC](files/PLC.md)
+* [PLC](files/plc.md)
 * [DAG](files/DAG.md)
 * [JPP](files/JPP.md)
 * [YGM](files/YGM.md)
